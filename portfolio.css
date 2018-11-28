@@ -1,0 +1,151 @@
+body{
+	padding: 20px;
+	background: rgb(10, 25, 47);
+	text-decoration-color:white;
+}
+
+.hello{
+	padding-left: 45px;
+	font-size: 70px;
+	color: rgb(230, 241, 255);
+
+}
+
+.navbar-inverse .navbar-nav li a {
+    color: rgb(100,255,218);
+
+}
+
+.navbar-inverse .navbar-brand {
+    color: rgb(100,255,218);
+}
+
+body {
+    width: 100%;
+    min-height: 100%;
+    padding-left: 45px;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    background-color: rgb(10, 25, 47);
+    color: rgb(136, 146, 176);
+    line-height: 30px;
+    font-family: Calibre, system, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", "Segoe UI", Arial, sans-serif;
+    font-size: 20px;
+    margin: 0px;
+}
+
+.lkAZCB {
+    position: relative;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+    white-space: nowrap;
+    font-size: 30px;
+    margin: 10px 0px 40px;
+}
+
+
+
+
+h3{
+   font-weight: 600;
+   color: rgb(230, 241, 255);
+   margin: 0px 0px 10px;
+}
+
+.paragraph{
+	font-size: 20px;
+	line-height: 50px;
+}
+
+
+.left {
+float: right;
+padding: 0 20px 20px 0;
+}
+
+#bordering{
+	border: 2px solid black;/*rgb(100,255,218);*/
+    padding: 2px;
+}
+
+#college{
+	color: rgb(228, 220, 50);
+}
+
+.iconSpace{
+	padding-left: 425px;
+}
+
+#getintouch{
+	color: rgb(100,255,218);
+	padding-left: 408px;
+	font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace
+	font-size: 13px;
+}
+
+.inline-border{
+	border: 1px solid rgb(100,255,218);
+	 padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+} 
+
+#skills{
+	color: rgb(100,255,218);
+	font-size: 20px;
+	padding-left: 206px; 
+}
+
+.jobtitle{
+	color: rgb(204, 214, 246);
+	font-size: 22px;
+}
+
+
+.company{
+	color: rgb(100,255,218);
+}
+
+.date{
+	font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
+    font-size: 15px;
+    font-weight: normal;
+    letter-spacing: 0.5px;
+    color: rgb(168, 178, 209);
+}
+
+.cKCNPf {
+    font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
+    font-size: 18px;
+    color: rgb(168, 178, 209);
+    margin-right: 20px;
+    margin-bottom: 7px;
+    white-space: nowrap;
+}
+
+
+.cKCNPf1{
+	font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
+    font-size: 18px;
+    color: rgb(168, 178, 209);
+    margin-right: 20px;
+    margin-bottom: 7px;
+    white-space: nowrap;
+    line-height: 50px;
+}
+
+
+.gXOJnW {
+    color: rgb(136, 146, 176);
+    font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
+    font-size: 15px;
+}
+
+/*.linespace{
+	line-height: 70px;
+}*/
+
+
